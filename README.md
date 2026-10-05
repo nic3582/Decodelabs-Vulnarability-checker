@@ -126,7 +126,7 @@ Please open an issue first for major changes.
 
 ## 🔐 Reporting Security Issues
 
-If you find a vulnerability in this tool itself, please **do not** open a public issue. Email **your-email@example.com** instead.
+If you find a vulnerability in this tool itself, please **do not** open a public issue. Email **nicholaskiptoo775@gmail.com** instead.
 
 ## 📄 License
 
