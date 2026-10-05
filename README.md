@@ -134,4 +134,4 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 ## 👤 Author: NICHOLAS KIPTOO       DECODELABS
 
-**Your Name** — [GitHub](https://github.com/<your-username>)
+** — [GitHub](https://github.com/nic3582)
